@@ -1,14 +1,14 @@
-//console.log ('That is' + ' ' + true); 
-//console.log ('I am' + ' '+ 29);
-//console.log (29 + true);
+console.log ('That is' + ' ' + true); 
+console.log ('I am' + ' '+ 29);
+console.log (29 + true);
 
-//console.log ('That is ' * true); 
-//console.log ('I am ' * 29);
-//console.log (29 * true);
+console.log ('That is ' * true); 
+console.log ('I am ' * 29);
+console.log (29 * true);
 
-//console.log ('That is ' / true); 
-//console.log ('I am ' / 29);
-//console.log (29 / true);
+console.log ('That is ' / true); 
+console.log ('I am ' / 29);
+console.log (29 / true);
 
 let a = '123'
 num = Number(a)

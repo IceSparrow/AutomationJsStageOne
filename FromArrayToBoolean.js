@@ -5,6 +5,6 @@ for (let el of arrayOfNums) {
     console.log (el)
 }
 
-// let a = 0;
-// a = Boolean(a);
-// console.log(a);
+let a = 0;
+a = Boolean(a);
+console.log(a);

@@ -1,10 +1,10 @@
-// try {
-//     console.log (a)
-//     let a = 3
+try {
+   console.log (a)
+   let a = 3
     
-// } catch {
-//     console.log('let must be declared')
-// }
+} catch {
+   console.log('let must be declared')
+}
 
 try {
     if (1/0) {
